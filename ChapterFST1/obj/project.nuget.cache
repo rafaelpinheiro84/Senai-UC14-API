@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HS0/mf9m4UvbmTx1A37iVSuW9VNJhiCPbzpTDOjO6N+8Gdn+OdbrU7Z481j0mBPigyCN5WAsj9RdCM3+lZ+yLw==",
+  "dgSpecHash": "FfXgmXLM9l+FXRHtDku3xredeZoZw/KFVvfRXSSsayXu9KKn9c+Ykm5uOO7QRPGQR7iUMZ0ZbbASTCXjMdkpbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\Documents\\UC14-API\\Encontro1-UC14\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\Documents\\UC14-API\\Encontros-UC14\\ChapterFST1\\ChapterFST1\\ChapterFST1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
