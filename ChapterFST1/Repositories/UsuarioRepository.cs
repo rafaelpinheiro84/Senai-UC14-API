@@ -17,7 +17,7 @@ namespace ChapterFST1.Repositories
 
         public void Atualizar(int id, Usuario usuario)
         {
-            Usuario usuarioEncontrado = _context.Usuarios.Find();
+            Usuario usuarioEncontrado = _context.Usuarios.Find(id);
 
             if (usuarioEncontrado != null)
             {
@@ -61,7 +61,7 @@ namespace ChapterFST1.Repositories
 
         public Usuario Login(string email, string senha)
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.FirstOrDefault(x => x.Email == email && x.Senha == senha);
         }
     }
 }

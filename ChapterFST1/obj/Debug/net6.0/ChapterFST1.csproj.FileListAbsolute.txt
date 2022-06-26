@@ -116,3 +116,4 @@ C:\Users\rafae\Documents\UC14-API\Encontros-UC14\ChapterFST1\ChapterFST1\obj\Deb
 C:\Users\rafae\Documents\UC14-API\Encontros-UC14\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ChapterFST1.pdb
 C:\Users\rafae\Documents\UC14-API\Encontros-UC14\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ChapterFST1.genruntimeconfig.cache
 C:\Users\rafae\Documents\UC14-API\Encontros-UC14\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ref\ChapterFST1.dll
+C:\Users\rafae\Documents\UC14-API\Encontros-UC14\ChapterFST1\ChapterFST1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
